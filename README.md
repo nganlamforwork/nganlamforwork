@@ -47,16 +47,16 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/nganlamlevu/" target="blank">
+  <a href="https://www.linkedin.com/in/nganlamlevu/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="mallee-linkedin" />
   </a>
   <a href="mailto:nganlamforwork@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="mallee-email" />
   </a>
-  <a href="https://instagram.com/lvnganlam" target="blank">
+  <a href="https://instagram.com/lvnganlam" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="mallee-instagram" />
   </a>
-  <a href="https://www.facebook.com/ngan.lam.357/" target="blank">
+  <a href="https://www.facebook.com/ngan.lam.357/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="mallee-facebook" />
   </a>
 </div>
