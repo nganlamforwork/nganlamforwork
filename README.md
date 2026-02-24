@@ -1,64 +1,50 @@
-- 👋 My name is Le Vu Ngan Lam (You can call me: Mal Lee)
-- 👀 I’m interested in coding, solving problem, playing guitar, take photos,...
-- 🌱 My dream is to be Data Analyst
-- 📫 Contact me: nganlamforwork@gmail.com
-- I have been studying at Le Hong Phong High School For The Gifted
-- Now, I am studying at University Of Science, located in Ho Chi Minh City, Vietnam
+# 👋 Hello, I'm Lê Vũ Ngân Lam (Lam Le)
+
+- 🚀 **Software Engineer I** at **MoMo (M Service)** (Promoted from Talented Scope Trainee).
+- 🎓 **Graduated Software Engineering (Honors)** from **University of Science, VNU-HCM** (GPA: 3.71/4.00) in Dec 2025.
+- 💡 **Core Interests:** Backend Engineering, Distributed Systems, and High-traffic solutions.
+- 🧠 **Competitive Programming Enthusiast:** Deeply passionate about Data Structures and Algorithms (DSA). I love the thrill of optimizing code and solving complex computational problems.
+- 🏆 **Achievements:** National Olympiad in Informatics (Honorable Mention), First Prize City-level, and ICPC Vietnam National (Honorable Mention).
+- 📫 Reach me at: [nganlamforwork@gmail.com](mailto:nganlamforwork@gmail.com)
+
+---
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
+
 <div align="center">
-  <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-  &nbsp; 
-  <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
-  &nbsp;
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="NextJS" />
 </div>
-<br>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="MalLee">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nganlamforwork&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="MalLee">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nganlamforwork&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-<br>
+---
 
-<h2 align="center">👉 Social Media 👈</h2>
-<br>
-<!-- https://icons8.com -->
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+
+* **[MoMo] Promotion & Loyalty Infrastructure:** Handling high-RPS traffic (1000+ rps) for reward distribution using **Kotlin, Kafka, and Redis**.
+* **Mini Database-like:** A B+Tree Database engine built from scratch in **Golang** with ACID transactions and WAL.
+* **Mini Kafka-like:** Distributed broker with custom binary protocol, partitioning, and consumer group rebalancing.
+* **Enginuity:** AI-powered IELTS platform using **Spring Boot** and **Gemini AI** for automated band scoring.
+---
+
+<h2 align="center">🤝 Connect with Me 🤝</h2>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/nganlamlevu/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="mallee-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="60" />
   </a>
-  <a href="mailto:nganlamforwork@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="mallee-email" />
+  <a href="mailto:nganlamforwork@gmail.com">
+    <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" width="60" />
   </a>
-  <a href="https://instagram.com/lvnganlam" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="mallee-instagram" />
-  </a>
-  <a href="https://www.facebook.com/ngan.lam.357/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="mallee-facebook" />
+  <a href="https://github.com/nganlamforwork">
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" width="60" />
   </a>
 </div>
